@@ -38,7 +38,7 @@ The implementation supports multiple Hamming configurations, including:
 - Hamming(8192)
 - Hamming(262144)
 
-# Error Simulation
+## Error Simulation
 The program can optionally introduce random bit errors to simulate noisy transmission channels and test correction capabilities.
 
 # Project Structure
